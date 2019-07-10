@@ -1,1 +1,1 @@
-<BikramjeetSingh.github.io>
+<https://bikramjeetsingh.github.io/>
