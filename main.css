@@ -1,0 +1,68 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.pic {
+    margin-top: 80px;
+    border-radius: 50%;
+    box-shadow: 0 2px 2px 2px #999999;
+}
+
+.location {
+    font-size: 20px;
+}
+
+.descr {
+    margin-top: 10px;
+    font-size: 14px;
+    width: 50%;
+    display: inline-block;
+}
+
+.icon-bar {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.icon-bar a {
+    float: left;
+    text-align: center;
+    width: 25%;
+    padding: 18px;
+    font-size: 32px;
+    color: #86888a;    
+}
+
+.fa-linkedin-square {
+    color: #0077b5;
+}
+
+.fa-github {
+    color: #333333;
+}
+
+.fa-envelope {
+    color: #777777;
+}
+
+.fa-file-text-o {
+    color: #777777;
+}
+
+hr {
+    border: 0.5px solid #bbbbbb;
+    width: 75%;
+}
+
+.quote {
+    color: #bbbbbb;
+    font-size: 32px;
+}
+
+.quote-first-part {
+    text-indent: -30px;
+}
+
+.quote-second-part {
+    text-indent: 30px;
+}
