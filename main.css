@@ -2,6 +2,10 @@
     font-family: 'Noto Sans', sans-serif;
 }
 
+.container {
+    text-align: center;
+}
+
 .pic {
     margin-top: 80px;
     border-radius: 50%;
