@@ -70,3 +70,11 @@ hr {
 .quote-second-part {
     text-indent: 30px;
 }
+
+.zoom {
+    transition: transform .2s;
+}
+
+.zoom:hover {
+    transform: scale(1.5);
+}
