@@ -1,5 +1,6 @@
 * {
     font-family: 'Noto Sans', sans-serif;
+    background-color: #EFEFEF;
 }
 
 .container {
@@ -12,8 +13,15 @@
     box-shadow: 0 2px 2px 2px #999999;
 }
 
+h1 {
+    color: #777777;
+    letter-spacing: 3px;
+}
+
 .location {
     font-size: 20px;
+    color: #AAAAAA;
+    letter-spacing: 1px;
 }
 
 .descr {
@@ -21,6 +29,8 @@
     font-size: 14px;
     width: 50%;
     display: inline-block;
+    color: #777777;
+    letter-spacing: 1px;
 }
 
 .icon-bar {
@@ -58,21 +68,8 @@
 }
 
 hr {
-    border: 0.5px solid #bbbbbb;
+    border: 0.1px solid #bbbbbb;
     width: 75%;
-}
-
-.quote {
-    color: #bbbbbb;
-    font-size: 32px;
-}
-
-.quote-first-part {
-    text-indent: -30px;
-}
-
-.quote-second-part {
-    text-indent: 30px;
 }
 
 .zoom {
