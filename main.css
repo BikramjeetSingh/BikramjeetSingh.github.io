@@ -25,7 +25,7 @@
 
 .icon-bar {
     margin-top: 20px;
-    display: inline-block;
+    display: inline-flex;
 }
 
 .icon-bar a {
@@ -43,6 +43,10 @@
 
 .fa-github {
     color: #333333;
+}
+
+.fa-twitter {
+    color: #00acee;
 }
 
 .fa-envelope {
