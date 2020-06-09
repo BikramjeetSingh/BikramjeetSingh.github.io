@@ -1,6 +1,6 @@
 * {
-    font-family: 'Noto Sans', sans-serif;
-    background-color: #EFEFEF;
+    font-family: "Noto Sans", sans-serif;
+    background-color: #efefef;
 }
 
 .container {
@@ -20,7 +20,7 @@ h1 {
 
 .location {
     font-size: 20px;
-    color: #AAAAAA;
+    color: #aaaaaa;
     letter-spacing: 1px;
 }
 
@@ -44,7 +44,7 @@ h1 {
     width: 25%;
     padding: 18px;
     font-size: 32px;
-    color: #86888a;    
+    color: #86888a;
 }
 
 .fa-linkedin-square {
@@ -73,7 +73,7 @@ hr {
 }
 
 .zoom {
-    transition: transform .2s;
+    transition: transform 0.2s;
 }
 
 .zoom:hover {
