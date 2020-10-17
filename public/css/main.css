@@ -1,6 +1,6 @@
 * {
     font-family: "Noto Sans", sans-serif;
-    background-color: #efefef;
+    background-color: #1a1a1a;
 }
 
 .container {
@@ -9,11 +9,11 @@
 
 .pic {
     border-radius: 50%;
-    box-shadow: 0 2px 2px 2px #999999;
+    border: 2px solid #c5c5c5;
 }
 
 h1 {
-    color: #777777;
+    color: #c5c5c5;
     letter-spacing: 3px;
 }
 
@@ -25,7 +25,7 @@ h1 {
 
 .descr {
     font-size: 14px;
-    color: #777777;
+    color: #dddddd;
     letter-spacing: 1px;
 }
 
@@ -40,7 +40,7 @@ h1 {
 }
 
 .fa-github {
-    color: #333333;
+    color: #c5c5c5;
 }
 
 .fa-twitter {
@@ -48,7 +48,7 @@ h1 {
 }
 
 .fa-envelope {
-    color: #777777;
+    color: #c5c5c5;
 }
 
 .fa-stack-overflow {
@@ -56,7 +56,7 @@ h1 {
 }
 
 .fa-file-text-o {
-    color: #777777;
+    color: #c5c5c5;
 }
 
 hr {
