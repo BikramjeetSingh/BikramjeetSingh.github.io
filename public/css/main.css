@@ -71,3 +71,9 @@ hr {
 .zoom:hover {
     transform: scale(1.5);
 }
+
+.blog-link {
+    font-size: 16px;
+    color: #dddddd;
+    letter-spacing: 1px;
+}
